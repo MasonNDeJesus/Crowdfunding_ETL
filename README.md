@@ -1,2 +1,2 @@
-# project_2_group_06
+# Crowdfunding_ETL
 Repository for project 2
